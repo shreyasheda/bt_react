@@ -1,4 +1,4 @@
-# react-github-profile-app-revamped
+# bt_react
 
 Revamped Vite + React demo app (plain CSS) with mock localStorage authentication and protected routes.
 
